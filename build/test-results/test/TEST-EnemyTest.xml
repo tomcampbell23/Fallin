@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EnemyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-05-31T03:27:46" hostname="Toms-New-MacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="testMovement()" classname="EnemyTest" time="0.0"/>
+  <testcase name="testInitialDamage()" classname="EnemyTest" time="0.001"/>
+  <testcase name="testInitialHealth()" classname="EnemyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

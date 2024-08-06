@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameEngineTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-05-31T03:27:46" hostname="Toms-New-MacBook-Air.local" time="0.052">
+  <properties/>
+  <testcase name="testHelp()" classname="GameEngineTest" time="0.007"/>
+  <testcase name="testGameOverHealth()" classname="GameEngineTest" time="0.008"/>
+  <testcase name="testGameOverStepsExceedLimit()" classname="GameEngineTest" time="0.004"/>
+  <testcase name="testMovePlayerX()" classname="GameEngineTest" time="0.002"/>
+  <testcase name="testMovePlayerY()" classname="GameEngineTest" time="0.001"/>
+  <testcase name="testCheckStateGameWon()" classname="GameEngineTest" time="0.005"/>
+  <testcase name="testInitialGameState()" classname="GameEngineTest" time="0.002"/>
+  <testcase name="testSaveAndLoadGame()" classname="GameEngineTest" time="0.02"/>
+  <system-out><![CDATA[You won the game with a final score of 122.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
